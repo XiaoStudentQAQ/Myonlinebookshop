@@ -1,0 +1,3 @@
+网上购书系统
+软件架构
+后端框架主要采用SSM框架，基于SpringBoot，MyBatis构建开发 模板引擎thymeleaf 前端框架采用Layui
